@@ -12,6 +12,13 @@ Juan Helen Zhou <sup><a href="#a">a,k,l</a></sup>,
 B.T. Thomas Yeo <sup><a href="#a">a,k,l,m,n,o</a></sup>, 
 Andrew Zalesky <sup><a href="#b">b,p</a></sup>
 
+---
+
+## Poster:
+
+![SNM Poster](SNM_poster/SNM_poster.webp)
+
+---
 
 <sup id="a">a</sup> *Centre for Sleep & Cognition & Centre for Translational Magnetic Resonance Research, Yong Loo Lin School of Medicine, National University of Singapore, Singapore* <br>
 <sup id="b">b</sup> *Systems Neuroscience Lab, Department of Psychiatry, The University of Melbourne, Parkville, Victoria, Australia* <br>
