@@ -20,6 +20,8 @@ Andrew Zalesky <sup><a href="#b">b,p</a></sup>
 
 ---
 
+## Affiliations:
+
 <sup id="a">a</sup> *Centre for Sleep & Cognition & Centre for Translational Magnetic Resonance Research, Yong Loo Lin School of Medicine, National University of Singapore, Singapore* <br>
 <sup id="b">b</sup> *Systems Neuroscience Lab, Department of Psychiatry, The University of Melbourne, Parkville, Victoria, Australia* <br>
 <sup id="c">c</sup> *Stem Cell Disease Modelling Lab, Department of Anatomy and Physiology, The University of Melbourne, Parkville, Victoria, Australia* <br>
