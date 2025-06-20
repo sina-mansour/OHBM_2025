@@ -1,16 +1,16 @@
 # Spectral Normative Modeling (SNM) for High-resolution Brain Abnormality Inference
 
-**Sina Mansour L.** <sup><a href="#a">a,b</a></sup>, 
-Maria A. Di Biase <sup><a href="#b">b,c,d</a></sup>, 
+**Sina Mansour L.** <sup><a href="#a">a</a>,<a href="#b">b</a></sup>, 
+Maria A. Di Biase <sup><a href="#b">b</a>,<a href="#c">c</a>,<a href="#d">d</a></sup>, 
 Hongwei Yan <sup><a href="#a">a</a></sup>, 
 Aihuiping Xue <sup><a href="#a">a</a></sup>, 
-Narayanaswamy Venketasubramanian <sup><a href="#e">e,f</a></sup>, 
+Narayanaswamy Venketasubramanian <sup><a href="#e">e</a>,<a href="#f">f</a></sup>, 
 Eddie Chong <sup><a href="#f">f</a></sup>, 
-Aaron Alexander-Bloch <sup><a href="#g">g,h,i</a></sup>, 
-Christopher Chen <sup><a href="#f">f,j</a></sup>, 
-Juan Helen Zhou <sup><a href="#a">a,k,l</a></sup>, 
-B.T. Thomas Yeo <sup><a href="#a">a,k,l,m,n,o</a></sup>, 
-Andrew Zalesky <sup><a href="#b">b,p</a></sup>
+Aaron Alexander-Bloch <sup><a href="#g">g</a>,<a href="#h">h</a>,<a href="#i">i</a></sup>, 
+Christopher Chen <sup><a href="#f">f</a>,<a href="#j">j</a></sup>, 
+Juan Helen Zhou <sup><a href="#a">a</a>,<a href="#k">k</a>,<a href="#l">l</a></sup>, 
+B.T. Thomas Yeo <sup><a href="#a">a</a>,<a href="#k">k</a>,<a href="#l">l</a>,<a href="#m">m</a>,<a href="#n">n</a>,<a href="#o">o</a></sup>, 
+Andrew Zalesky <sup><a href="#b">b</a>,<a href="#p">p</a></sup>
 
 ---
 
