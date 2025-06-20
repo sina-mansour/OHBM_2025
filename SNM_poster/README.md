@@ -18,6 +18,8 @@ Andrew Zalesky <sup><a href="#b">b</a>,<a href="#p">p</a></sup>
 
 ![SNM Poster](SNM_Poster.webp)
 
+🔗 Download the poster: [SNM_Poster.pdf](Poster.min.pdf)
+
 ---
 
 ## Affiliations:
