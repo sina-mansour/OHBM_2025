@@ -16,7 +16,7 @@ Andrew Zalesky <sup><a href="#b">b,p</a></sup>
 
 ## Poster:
 
-![SNM Poster](SNM_poster/SNM_poster.webp)
+![SNM Poster](SNM_poster.webp)
 
 ---
 
